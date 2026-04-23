@@ -1,6 +1,6 @@
 This is my testing repository.
 <br>
-Author: Hemachandra Kairuppala.
+Author: Hemachandra (Student)
 
 
 # example_project
